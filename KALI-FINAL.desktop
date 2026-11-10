@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=KALI FINAL
+Exec=/home/max/KALI-FINAL/start.sh
+Type=Application
+Terminal=false
+Categories=Network;
